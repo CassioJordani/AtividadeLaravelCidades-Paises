@@ -1,0 +1,85 @@
+/* public/css/app.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #333;
+    background-color: #f0cdcd;
+}
+
+h1, h3 {
+    color: #228127;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #4b752e;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.header, .footer {
+    text-align: center;
+    padding: 10px;
+    background: #0056b3;
+    color: #1d393a;
+    border-radius: 8px;
+}
+
+.footer {
+    margin-top: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.navbar a {
+    margin: 0 10px;
+    font-size: 16px;
+}
+
+.cidades ul {
+    padding: 0;
+}
+
+.cidades li {
+    margin: 10px 0;
+}
+
+.cidade {
+    margin-bottom: 20px;
+}
+
+.cidade p {
+    margin: 5px 0;
+}
+
